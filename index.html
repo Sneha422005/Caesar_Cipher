@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Caesar Cipher</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <canvas id="stars"></canvas>
+  <div class="container">
+    <h1>Caesar Cipher</h1>
+    <textarea id="inputText" placeholder="Enter your text here..."></textarea>
+  <div class="shift-container">
+      <label for="shiftValue">Shift:</label>
+      <input type="number" id="shiftValue" placeholder="Enter shift value" />
+    </div>
+    <div class="buttons">
+      <button id="encryptButton">Encrypt</button>
+      <button id="decryptButton">Decrypt</button>
+    </div>
+    <textarea id="outputText" placeholder="Result will appear here..." readonly></textarea>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
