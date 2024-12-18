@@ -42,7 +42,8 @@ To run the application locally, follow these steps:
 - The Caesar Cipher algorithm is implemented in JavaScript, shifting characters in the alphabet.
 
 ## Screenshot
-![Caesar_Cipher](C:\Users\DELL\Desktop\caesar_cipher)
+![Caesar Cipher](file:///C:/Users/DELL/Desktop/caesar_cipher.jpg "Caesar Cipher")
+
 
 
 
